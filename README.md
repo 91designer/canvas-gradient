@@ -1,2 +1,2 @@
 # canvas-gradient
-this repo has canvasRandringContext.createLinearGradient &amp;&amp; canvasRandringContext.createRadialGradient methods
+this repo has canvasRandringContext.createLinearGradient and  canvasRandringContext.createRadialGradient methods
